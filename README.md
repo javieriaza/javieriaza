@@ -1,6 +1,8 @@
 ### Welcome, Bienvenido👋
 ## Mi nombre es Javi:
 ⚡ Estoy aprendiendo acerca del mundo de Big Data
+💻 Interesado en las nuevas tecnologías 
+:battery: 
 
 
 
