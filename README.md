@@ -1,6 +1,7 @@
 ### Welcome, Bienvenido👋
-## Mi nombre es Javi y 
+## Mi nombre es Javi:
 ⚡ Estoy aprendiendo acerca del mundo de Big Data
+
 
 
 
