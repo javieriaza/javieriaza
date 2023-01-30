@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome, Bienvenido👋
+## Mi nombre es Javi y 
+⚡ Estoy aprendiendo acerca del mundo de Big Data
+![This is an image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.computerworld.es%2Farchivos%2F201504%2Fgithub.jpg&imgrefurl=https%3A%2F%2Fwww.computerworld.es%2Fnegocio%2Fgithub-ya-es-propiedad-de-microsoft&tbnid=6kkBKKeEILttXM&vet=12ahUKEwjx9f2V0e_8AhU1sCcCHfCvAgkQMygKegUIARD5AQ..i&docid=yb2dFzYawqmhGM&w=657&h=369&q=github&ved=2ahUKEwjx9f2V0e_8AhU1sCcCHfCvAgkQMygKegUIARD5AQ)
+
+
 
 <!--
 **javieriaza/javieriaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
